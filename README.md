@@ -1,6 +1,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> <br>
+    
 Bu kod, bir Flask uygulamasını tanımlar ve çalıştırır. Flask, Python dilinde yazılmış bir mikro web framework'tür. Kodun ne yaptığını ve nasıl dağıtılacağını aşağıda özetledim:
 
 Kodun Yaptıkları:
