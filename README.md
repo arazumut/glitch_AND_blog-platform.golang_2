@@ -41,7 +41,7 @@ Bu proje, Go programlama dili kullanılarak geliştirilen basit bir blog platfor
 
 Kullanılan Teknolojiler
 Go (Golang): Uygulamanın geliştirilmesinde kullanılan programlama dili.
-Gin: Go ile hızlı ve kolay bir web sunucusu geliştirmeyi sağlayan bir web framework’ü.
+Gin: Go ile hızlı ve kolay bir web sunucusu geliştirmeyi sağlayan bir web framework’ü.,
 GORM: Go için güçlü bir ORM (Object-Relational Mapping) kütüphanesi. Veritabanı işlemlerini yönetmek için kullanılır.
 SQLite: Hafif ve sunucusuz bir veritabanı yönetim sistemi. Bu projede veritabanı olarak kullanıldı.
 Proje Yapısı ve Dosyalar
