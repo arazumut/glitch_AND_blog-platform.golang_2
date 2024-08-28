@@ -25,7 +25,6 @@ gunicorn main:app -w 1 --log-file - komutunu çalıştırarak uygulama başlatı
 GitHub ve Glitch Üzerinden Dağıtım:
 
 
-
 Kodunuzu GitHub'a yükleyin.
 Glitch platformuna giriş yapın ve yeni bir proje oluşturun.
 Glitch projenizi GitHub deposuna bağlayın ve kodunuzu içe aktarın.
