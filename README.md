@@ -52,7 +52,7 @@ models.go: Bu dosyada, uygulamanın veri modelleri tanımlanmıştır. Projede �
 
 User: Kullanıcı bilgilerini saklayan modeldir (kullanıcı adı ve şifre).
 Post: Blog yazılarını temsil eden modeldir (başlık, içerik ve kullanıcıya ait ID).
-Comment: Blog yazılarına eklenen yorumları saklayan modeldir (yorum içeriği ve ilgili yazıya ait ID).
+Comment: Blog yazılarına eklenen yorumları saklayan modeldir (yorum içeriği ve ilgili yazıya ait ID).,
 database.go: Veritabanı yapılandırması ve bağlantısının kurulduğu dosyadır. SQLite veritabanına bağlanır ve veri modelleri için tablolar oluşturur.
 
 routes.go: HTTP rotalarının (endpoints) tanımlandığı dosyadır. Bu rotalar, gelen HTTP isteklerini belirli işlevlere yönlendirir.
