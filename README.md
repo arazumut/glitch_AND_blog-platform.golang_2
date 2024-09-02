@@ -38,6 +38,7 @@ Bu adımlar sonucunda, Flask uygulamanız Glitch üzerinde dağıtılmış ve er
     <h1>Chat Platform 2</h1>
     Proje Amacı
   
+  
 Bu proje, Go programlama dili kullanılarak geliştirilen basit bir blog platformu uygulamasıdır. Proje, kullanıcıların kayıt olup giriş yapabileceği, blog yazıları oluşturabileceği, bu yazılara yorum ekleyebileceği ve veritabanında saklayabileceği temel bir web uygulaması sağlar.
 
 Kullanılan Teknolojiler
