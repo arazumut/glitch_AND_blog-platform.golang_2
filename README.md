@@ -6,6 +6,7 @@
 Bu kod, bir Flask uygulamasını tanımlar ve çalıştırır. Flask, Python dilinde yazılmış bir mikro web framework'tür. Kodun ne yaptığını ve nasıl dağıtılacağını aşağıda özetledim:
 
 Kodun Yaptıkları:
+//Produced By. K.Umut Araz
 Flask Uygulaması Oluşturma:
 Flask sınıfını kullanarak bir web uygulaması oluşturulur.
 Rota Tanımlama:
