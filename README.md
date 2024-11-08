@@ -12,8 +12,6 @@ Flask sınıfını kullanarak bir web uygulaması oluşturulur.
 Rota Tanımlama:
 Ana rota ("/") tanımlanır ve bu rotaya bir HTTP GET isteği gönderildiğinde, JSON formatında bir yanıt döndürülür. Yanıt, {"msg": "hello deploy from flask glitch"} şeklindedir.
 Uygulamayı Çalıştırma:
-
-
 Eğer bu dosya doğrudan çalıştırılırsa, Flask sunucusu başlatılır (app.run()).
 Dağıtım İçin Yapılacaklar:
 Kodun Hazırlanması:
