@@ -16,6 +16,7 @@ Eğer bu dosya doğrudan çalıştırılırsa, Flask sunucusu başlatılır (app
 Dağıtım İçin Yapılacaklar:
 Kodun Hazırlanması:
 
+
 main.py adlı bir dosya oluşturulacak ve yukarıdaki kod içine yerleştirilecektir.
 Gunicorn Kullanımı:
 
