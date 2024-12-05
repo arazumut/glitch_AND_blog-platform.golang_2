@@ -51,6 +51,7 @@ main.go: Uygulamanın giriş noktasıdır. Bu dosyada, web sunucusu başlatılı
 
 models.go: Bu dosyada, uygulamanın veri modelleri tanımlanmıştır. Projede üç ana model kullanılır:
 
+
 User: Kullanıcı bilgilerini saklayan modeldir (kullanıcı adı ve şifre).
 Post: Blog yazılarını temsil eden modeldir (başlık, içerik ve kullanıcıya ait ID).
 Comment: Blog yazılarına eklenen yorumları saklayan modeldir (yorum içeriği ve ilgili yazıya ait ID).,
